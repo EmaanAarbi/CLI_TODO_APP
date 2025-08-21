@@ -17,8 +17,8 @@ It allows you to add, view, mark complete/incomplete, and delete tasks easily.
 ##  Project Structure
 
 
-├── todo.py # Main application file
-└── README.md # Project documentation
+├── todo.py # Main application file   
+      └── README.md # Project documentation
 ---
 
 ##  Usage
