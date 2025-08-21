@@ -27,8 +27,9 @@ It allows you to add, view, mark complete/incomplete, and delete tasks easily.
    git clone https://github.com/your-username/cli-todo-app.git
    cd cli-todo-app
 
-2.Run this code:
-python todo.py
+ 2.Run this code:
+ 
+      python todo.py
 
 
 
