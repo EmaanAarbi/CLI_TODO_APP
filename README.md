@@ -29,7 +29,7 @@ It allows you to add, view, mark complete/incomplete, and delete tasks easily.
 
  2.Run this code:
  
-      python todo.py
+      python cli.py
 
 
 
